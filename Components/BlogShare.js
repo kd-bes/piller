@@ -1,3 +1,5 @@
+// its for sharing blog
+
 import { FaTwitter } from "react-icons/fa";
 
 function BlogShare({ data }) {
