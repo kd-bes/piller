@@ -58,6 +58,5 @@ function Footer() {
     </footer>
   );
 }
-
-export default Footer;
+// hello
 export default Footer;
