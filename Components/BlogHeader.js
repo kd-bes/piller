@@ -39,3 +39,4 @@ function BlogHeader({ data, content, readTime }) {
 }
 
 export default BlogHeader;
+export default BlogHeader;
