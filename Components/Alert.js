@@ -26,3 +26,4 @@ function Alert({ show, type, message }) {
 }
 
 export default Alert;
+export default Alert;
