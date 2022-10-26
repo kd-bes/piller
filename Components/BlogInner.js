@@ -62,4 +62,3 @@ function BlogInner({ data, content, headings }) {
 
 export default BlogInner;
 
-export default BlogInner;

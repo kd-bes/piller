@@ -33,4 +33,3 @@ function Header({ topic, topicName, topicCount }) {
 }
 
 export default Header;
-export default Header;
