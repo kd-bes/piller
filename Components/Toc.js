@@ -28,4 +28,3 @@ function Toc({ headings }) {
 }
 
 export default Toc;
-export default Toc;
