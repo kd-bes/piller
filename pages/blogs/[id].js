@@ -97,4 +97,4 @@ function id({ data, content, id, headings, topics }) {
   );
 }
 
-export default id;
+export default id;export default id;
