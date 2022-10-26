@@ -27,3 +27,4 @@ function BlogShare({ data }) {
 }
 
 export default BlogShare;
+export default BlogShare;
