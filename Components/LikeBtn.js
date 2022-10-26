@@ -58,3 +58,4 @@ function LikeBtn({ id }) {
 }
 
 export default LikeBtn;
+export default LikeBtn;
